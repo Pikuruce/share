@@ -8,7 +8,7 @@ for i in range(a):
 
 a = 4
 
-
+c = 2
 
 
 
