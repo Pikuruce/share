@@ -9,8 +9,8 @@ for i in range(a):
 a = 4
 b = 1
 c = 1
+d = 3
 e = 0
-
 
 
 if a == 5:
